@@ -53,3 +53,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+| Snake Eating Contributions in the last year |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+
